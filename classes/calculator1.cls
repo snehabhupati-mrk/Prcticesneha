@@ -9,5 +9,7 @@ public class calculator1 {
     public void sum( integer y,decimal x){
         system.debug('sum of  ' +x+ '  and  ' +y+ ' = ' +(x+y));
     } 
-       
+        public void mul( integer y,decimal x){
+        system.debug('multiplication  of  ' +x+ '  and  ' +y+ ' = ' +(x*y));
+    } 
 }
